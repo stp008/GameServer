@@ -1,0 +1,5 @@
+<form action="/auth" method = "post">
+  <p><b>Для авторизации введите ваш логин:</b></p>
+  <input type="text" name = "name" size="40">
+  <p><input type="submit"></p>
+ </form>
